@@ -8,7 +8,8 @@ A Python toolkit for comparative analysis of GWAS unitig panels across multiple 
 
 ## Overview
 
-This pipeline enables systematic comparison of unitig presence/absence matrices (.Rtab format) across multiple GWAS datasets. Common use case: analyzing resistance markers for different antibiotics (e.g., Azithromycin, Cefixime, Ciprofloxacin) in bacterial populations.
+This pipeline enables systematic comparison of unitig presence/absence matrices (.Rtab format) across multiple GWAS datasets. Common use case: analyzing resistance markers for different antibiotics (e.g., Azithromycin, Cefixime, Ciprofloxacin) in bacterial populations. 
+Dataset link: https://www.kaggle.com/datasets/nwheeler443/gono-unitigs 
 
 ### Key Features
 
